@@ -4,7 +4,6 @@ Paste any public GitHub repo and instantly get a PM-style project status report 
 
 🎥 **[Watch the Demo →] **
 
-![GitPulse Dashboard Screenshot](screenshot.png)
 
 ---
 
